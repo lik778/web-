@@ -1,0 +1,5 @@
+{
+  "name": "星际漫游指南 (Interstellar Guide)",
+  "description": "一个沉浸式星际旅行模拟器。选择你的目的地，体验光速跃迁，并接收来自飞船AI生成的实时星球报告。",
+  "requestFramePermissions": []
+}
